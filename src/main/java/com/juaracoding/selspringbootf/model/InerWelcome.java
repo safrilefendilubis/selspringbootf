@@ -10,31 +10,31 @@ Created on 2/5/2023 4:56 PM
 Version 1.1
 */
 public class InerWelcome {
-    private String InerWelcomeX;
-    private String InerWelcomeY;
-    private String InerWelcomeZ;
+    private String inerWelcomeX;
+    private String inerWelcomeY;
+    private String inerWelcomeZ;
 
     public String getInerWelcomeX() {
-        return InerWelcomeX;
+        return inerWelcomeX;
     }
 
     public void setInerWelcomeX(String inerWelcomeX) {
-        InerWelcomeX = inerWelcomeX;
+        this.inerWelcomeX = inerWelcomeX;
     }
 
     public String getInerWelcomeY() {
-        return InerWelcomeY;
+        return inerWelcomeY;
     }
 
     public void setInerWelcomeY(String inerWelcomeY) {
-        InerWelcomeY = inerWelcomeY;
+        this.inerWelcomeY = inerWelcomeY;
     }
 
     public String getInerWelcomeZ() {
-        return InerWelcomeZ;
+        return inerWelcomeZ;
     }
 
     public void setInerWelcomeZ(String inerWelcomeZ) {
-        InerWelcomeZ = inerWelcomeZ;
+        this.inerWelcomeZ = inerWelcomeZ;
     }
 }
